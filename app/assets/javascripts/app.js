@@ -1,0 +1,1 @@
+mgrecipes = angular.module('mgrecipes', []);
