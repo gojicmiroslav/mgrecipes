@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'sass', '3.2.19' 
 gem "bower-rails"
 gem "foreman"
+gem 'angular-rails-templates'
 
 group :development, :test do
 	# Call 'byebug' anywhere in the code to stop execution and get a debugger console
